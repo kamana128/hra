@@ -1,0 +1,16 @@
+/* Styles for the form and photo upload components */
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+form .MuiButton-root {
+  margin-top: 16px;
+}
+
+form .MuiTypography-root {
+  margin-bottom: 16px;
+}
